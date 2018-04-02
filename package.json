@@ -2,5 +2,9 @@
 	"scripts":{
 	  "start": "node index.js"
 	},
+	 	"dependencies": {
+    	"express": "latest",
+    	"node-telegram-bot-api": "latest"
+  	},
 "main":"index.js"
 }
